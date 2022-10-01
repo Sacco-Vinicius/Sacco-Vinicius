@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Oi, Eu  sou @Sacco-Vinicius
-festou estudando Python  para cieinicia de dados estou fazndo cursos basicos na DSA  
+estou estudando Python para cieinicia de dados estou fazendo cursos basicos na DSA  
 estou no nivel inicial
